@@ -28,6 +28,8 @@ For , if we list all the natural numbers below  that are multiples of  or , we g
 
 Similarly for , we get .
 
+Note : Problem needs to be solved in linear time complexity for each test case
+
 */
 
 #include <map>
